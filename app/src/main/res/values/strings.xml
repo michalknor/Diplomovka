@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Diplomovka</string>
+    <string name="breadcrumbNavigationToMenu"><u>Car-sharing</u></string>
+    <string name="breadcrumbNavigationToOffer"><u>Vyhľadávanie</u></string>
+    <string name="breadcrumbNavigationToCar"><u>Auto</u></string>
+    <string name="breadcrumbNavigationToRentedCars"><u>Požičané autá</u></string>
 </resources>
